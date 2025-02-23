@@ -16,7 +16,7 @@ namespace Module_5_5_1
     {
         private ExternalCommandData _commandData;
 
-        public DelegateCommand SelectPipes { get; }
+        public DelegateCommand SelectPipes { get; } 
         public DelegateCommand SelectWalls { get; }
         public DelegateCommand SelectDoors { get; }
         
