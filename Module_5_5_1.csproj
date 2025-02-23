@@ -99,9 +99,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RevitAPILibrary\RevitAPILibrary.csproj">
-      <Project>{953ac93a-4088-457e-b1bb-1416fbda98dd}</Project>
-      <Name>RevitAPILibrary</Name>
+    <ProjectReference Include="..\MyRevitAPILibrary\MyRevitAPILibrary.csproj">
+      <Project>{7caeec93-85ed-41d1-840c-8d13d8a8654d}</Project>
+      <Name>MyRevitAPILibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
