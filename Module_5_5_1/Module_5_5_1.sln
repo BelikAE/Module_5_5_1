@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_5_5_1", "Module_5_5_1.csproj", "{F2C4419E-A468-48C2-B606-22B3D9E96C99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRevitAPILibrary", "..\..\5_1\MyRevitAPILibrary\MyRevitAPILibrary.csproj", "{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRevitAPILibrary", "..\MyRevitAPILibrary\MyRevitAPILibrary.csproj", "{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
