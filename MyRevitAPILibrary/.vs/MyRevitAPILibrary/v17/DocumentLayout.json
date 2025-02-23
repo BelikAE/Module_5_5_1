@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BelikAE\\Desktop\\C#\\MyRevitAPILibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}|MyRevitAPILibrary.csproj|c:\\users\\belikae\\desktop\\c#\\myrevitapilibrary\\selectionutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}|MyRevitAPILibrary.csproj|solutionrelative:selectionutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectionUtils.cs",
+              "DocumentMoniker": "C:\\Users\\BelikAE\\Desktop\\C#\\MyRevitAPILibrary\\SelectionUtils.cs",
+              "RelativeDocumentMoniker": "SelectionUtils.cs",
+              "ToolTip": "C:\\Users\\BelikAE\\Desktop\\C#\\MyRevitAPILibrary\\SelectionUtils.cs",
+              "RelativeToolTip": "SelectionUtils.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T03:23:54.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

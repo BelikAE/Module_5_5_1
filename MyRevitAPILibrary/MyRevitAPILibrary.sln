@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113
+VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_5_5_1", "Module_5_5_1.csproj", "{F2C4419E-A468-48C2-B606-22B3D9E96C99}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRevitAPILibrary", "..\MyRevitAPILibrary\MyRevitAPILibrary.csproj", "{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRevitAPILibrary", "MyRevitAPILibrary.csproj", "{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F2C4419E-A468-48C2-B606-22B3D9E96C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F2C4419E-A468-48C2-B606-22B3D9E96C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F2C4419E-A468-48C2-B606-22B3D9E96C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F2C4419E-A468-48C2-B606-22B3D9E96C99}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -1,0 +1,6 @@
+C:\Users\BelikAE\Desktop\C#\MyRevitAPILibrary\bin\Debug\MyRevitAPILibrary.dll
+C:\Users\BelikAE\Desktop\C#\MyRevitAPILibrary\bin\Debug\MyRevitAPILibrary.pdb
+C:\Users\BelikAE\Desktop\C#\MyRevitAPILibrary\obj\Debug\MyRevitAPILibrary.csproj.AssemblyReference.cache
+C:\Users\BelikAE\Desktop\C#\MyRevitAPILibrary\obj\Debug\MyRevitAPILibrary.csproj.CoreCompileInputs.cache
+C:\Users\BelikAE\Desktop\C#\MyRevitAPILibrary\obj\Debug\MyRevitAPILibrary.dll
+C:\Users\BelikAE\Desktop\C#\MyRevitAPILibrary\obj\Debug\MyRevitAPILibrary.pdb
