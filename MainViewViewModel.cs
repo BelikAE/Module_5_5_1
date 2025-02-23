@@ -19,7 +19,7 @@ namespace Module_5_5_1
         public DelegateCommand SelectPipes { get; }
         public DelegateCommand SelectWalls { get; }
         public DelegateCommand SelectDoors { get; }
-
+        
         public MainViewViewModel(ExternalCommandData commandData)
         {
             _commandData = commandData;
