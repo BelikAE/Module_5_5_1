@@ -28,12 +28,12 @@ namespace Module_5_5_3
 
             string tabName = "Module 5";
             application.CreateRibbonTab(tabName);
-            string assemblyPath = Assembly.GetExecutingAssembly().Location;
+            string utilsFolderPath = @"C:\Users\BelikAE\AppData\Roaming\Autodesk\Revit\Addins\2021\Module_5_5_3\";
 
             var panel = application.CreateRibbonPanel(tabName, "Module_5_5");
 
             var button1 = new PushButtonData("Система", "Задание 1",
-                Path.Combine(assemblyPath, "Module_5_5_1.dll"),
+                Path.Combine(utilsFolderPath, "Module_5_5_1.dll"),
                 "Module_5_5_1.Main");
 
             Image img1 = Properties.Resources.RevitAPITrainingUI_32;
@@ -43,8 +43,8 @@ namespace Module_5_5_3
             panel.AddItem(button1);
 
             var button2 = new PushButtonData("Система", "Задание 2",
-                Path.Combine(assemblyPath, "Module_5_5_2.dll"),
-                "Module_5_5_1.Main");
+                Path.Combine(utilsFolderPath, "Module_5_5_2.dll"),
+                "Module_5_5_2.Main");
 
             Image img2 = Properties.Resources.RevitAPITrainingUI_32;
             ImageSource imgSource2 = Convert(img2);
