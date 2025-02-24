@@ -32,7 +32,7 @@ namespace Module_5_5_3
 
             var panel = application.CreateRibbonPanel(tabName, "Module_5_5");
 
-            var button1 = new PushButtonData("Система", "Задание 1",
+            var button1 = new PushButtonData("Задание 1", "Задание 1",
                 Path.Combine(utilsFolderPath, "Module_5_5_1.dll"),
                 "Module_5_5_1.Main");
 
@@ -42,7 +42,7 @@ namespace Module_5_5_3
             button1.Image = imgSource1;
             panel.AddItem(button1);
 
-            var button2 = new PushButtonData("Система", "Задание 2",
+            var button2 = new PushButtonData("Задание 2", "Задание 2",
                 Path.Combine(utilsFolderPath, "Module_5_5_2.dll"),
                 "Module_5_5_2.Main");
 
