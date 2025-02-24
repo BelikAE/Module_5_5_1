@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Module_5_5_3</Name>
+		<Assembly>Module_5_5_3.dll</Assembly>
+		<AddInId>0C8133D5-47F0-4F5C-A32F-46240DA30330</AddInId>
+		<FullClassName>Module_5_5_3.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+	</AddIn>
+</RevitAddIns>

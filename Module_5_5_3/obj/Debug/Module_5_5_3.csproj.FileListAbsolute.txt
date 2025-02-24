@@ -1,0 +1,8 @@
+C:\Users\BelikAE\Desktop\C#\Module_5_5_1\Module_5_5_3\bin\Debug\Module_5_5_3.dll
+C:\Users\BelikAE\Desktop\C#\Module_5_5_1\Module_5_5_3\bin\Debug\Module_5_5_3.pdb
+C:\Users\BelikAE\Desktop\C#\Module_5_5_1\Module_5_5_3\obj\Debug\Module_5_5_3.csproj.AssemblyReference.cache
+C:\Users\BelikAE\Desktop\C#\Module_5_5_1\Module_5_5_3\obj\Debug\Module_5_5_3.csproj.CoreCompileInputs.cache
+C:\Users\BelikAE\Desktop\C#\Module_5_5_1\Module_5_5_3\obj\Debug\Module_5_5_3.dll
+C:\Users\BelikAE\Desktop\C#\Module_5_5_1\Module_5_5_3\obj\Debug\Module_5_5_3.pdb
+C:\Users\BelikAE\Desktop\C#\Module_5_5_1\Module_5_5_3\obj\Debug\Module_5_5_3.Properties.Resources.resources
+C:\Users\BelikAE\Desktop\C#\Module_5_5_1\Module_5_5_3\obj\Debug\Module_5_5_3.csproj.GenerateResource.cache
