@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_5_5_1", "Module_5_5_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRevitAPILibrary", "..\MyRevitAPILibrary\MyRevitAPILibrary.csproj", "{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_5_5_2", "..\Module_5_5_2\Module_5_5_2.csproj", "{217D0D43-3E2A-4247-A3D2-00F459BB43F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_5_5_3", "..\Module_5_5_3\Module_5_5_3.csproj", "{2FC71FB7-1DAF-4F92-8C87-584506362FC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CAEEC93-85ED-41D1-840C-8D13D8A8654D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217D0D43-3E2A-4247-A3D2-00F459BB43F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217D0D43-3E2A-4247-A3D2-00F459BB43F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217D0D43-3E2A-4247-A3D2-00F459BB43F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217D0D43-3E2A-4247-A3D2-00F459BB43F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC71FB7-1DAF-4F92-8C87-584506362FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC71FB7-1DAF-4F92-8C87-584506362FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC71FB7-1DAF-4F92-8C87-584506362FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC71FB7-1DAF-4F92-8C87-584506362FC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
